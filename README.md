@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python OpenCV Egitimi</title>
+   
 </head>
 <body>
 
-<h1>Python OpenCV Örnek Projesi</h1>
+<h1>Python OpenCV Egitimii</h1>
 
 <p>Bu proje, Python dilinde OpenCV kütüphanesini kullanarak temel görüntü işleme görevlerini gerçekleştirmek için bir örnek uygulamalar içermektedir.</p>
 
